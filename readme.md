@@ -1,5 +1,5 @@
 # Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning
-We do not expose team or author information in our code.
+This repo is the official implementation of Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning.
 ## Requirements
 
 use the provided requirements.txt to install the dependencies:
